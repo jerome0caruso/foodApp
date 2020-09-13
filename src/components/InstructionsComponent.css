@@ -1,0 +1,14 @@
+.instruction-container {
+    width: 100%;
+    margin-top: 2.1em;
+}
+.indy-text {
+    line-height: 1.2em;
+    padding: .8em;
+}
+span {
+    padding: .5em;
+}
+.instruction-container > input:not(:first-child) {
+    margin-top: 2em;
+}

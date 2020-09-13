@@ -1,0 +1,5 @@
+.recipe-pic img {
+    max-height: 300px;
+    width:87%;
+    object-fit: contain;
+}

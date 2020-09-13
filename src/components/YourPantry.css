@@ -1,0 +1,34 @@
+.pantry-container {
+    color: #fff;
+}
+
+.pantry-btn {
+    background-color: rgb(235, 236, 252);
+    margin-bottom: .7em;
+    border-radius: .5em;
+    padding: .3em 2em;
+    cursor: pointer;
+}
+
+.pantry-text {
+    font-size: 14px;
+}
+
+.input-field {
+    margin: 1em 0 .5em 0;
+
+}
+.pantry-edit {
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    background-color: rgb(122, 168, 159);
+    display: inline;
+    padding: .01em 1em;
+}
+.pantry-btn-edit {
+    margin: .4em;
+    cursor: pointer;
+    padding: .01em .5em;
+}
